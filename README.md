@@ -12,30 +12,27 @@
 <details><summary>The real profile</summary>
 <p>
 
-NAME
-CreeperIsASpy - 像调试器般执着于修复边缘案例的Minecraft启动器 + Python开发者
+## CreeperIsASpy - 像调试器般执着于修复边缘案例的Minecraft启动器 + Python开发者
 
-SYNOPSIS
-Python3.11 [--webdev --minecraft] | .NET Core 6.0
+### 简介  
+语言：Python3.11 [--webdev --minecraft] | .NET Core 6.0
 
-常见操作包括在凌晨提交带有咆哮式commit message的YAML文件修改（参见DIAGNOSTICS章节）
+常见操作包括在凌晨提交带有咆哮式commit message的YAML文件修改（参见`汉医堂`章节）
 
-DESCRIPTION
+### 详情描述
 行为模式如同被卡在chunk加载边界的末影人，持续在PCL2启动器社区和Python项目间量子纠缠。典型活动包括：
 
 - 用PEP8规范暴力重构历史项目（频率：3次/季度）
-
 - 为GitHub Actions工作流添加workflow_dispatch触发器（频率：如同/etc/crontab里配置的定时任务）
-
 - 在commit message里书写《等待戈多》式独白（参见"driving me mad again"系列提交）
 
-DIAGNOSTICS
+### 汉医堂
 当遇到HTTP状态码不显示时会进入薛定谔的调试状态，错误代码418表示"茶壶拒绝煮咖啡"(RFC2324)。在YAML文件缩进错误时会触发《发条橙》式的暴力修正行为，典型表现为连续7次提交包含"ahhhhhhh"的版本回滚。
 
-BUGS
+### 已知问题
 已知会将上海地铁识别为持续集成的pipeline，把猫毛当作未处理的NullPointerException。在极少数情况下会把README.md文件编译成CPython字节码，这种现象被社区称为"Nuitka的诅咒"。
 
-SEE ALSO
+### 参见
 rickstaa(7), 《Python网络编程就像用Minecraft红石做计算机》(O'Reilly 2024版)。对于commit message文学性分析可参考《荒原》T.S.艾略特注释本。
   
 </p>
